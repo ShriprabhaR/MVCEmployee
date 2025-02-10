@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1146F6E7-062D-4B2D-AA10-C4314E96EC22}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\hp\\source\\repos\\employeemvc\\repositorylayer\\services\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146F6E7-062D-4B2D-AA10-C4314E96EC22}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\services\\emprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146F6E7-062D-4B2D-AA10-C4314E96EC22}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\hp\\source\\repos\\employeemvc\\repositorylayer\\interfaces\\iemprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146F6E7-062D-4B2D-AA10-C4314E96EC22}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interfaces\\iemprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9608E1-0FA0-4BCA-B2A8-22C321342E4E}|CommonLayer\\CommonLayer.csproj|c:\\users\\hp\\source\\repos\\employeemvc\\commonlayer\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9608E1-0FA0-4BCA-B2A8-22C321342E4E}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\models\\empmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADA0CA-04E3-4B0B-80AE-D94AAD9A85A2}|EmployeeMVC\\EmployeeMVC.csproj|c:\\users\\hp\\source\\repos\\employeemvc\\employeemvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADA0CA-04E3-4B0B-80AE-D94AAD9A85A2}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4964B36D-CB08-42C1-A87A-46EC0BD1E198}|ManagerLayer\\ManagerLayer.csproj|c:\\users\\hp\\source\\repos\\employeemvc\\managerlayer\\services\\empmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4964B36D-CB08-42C1-A87A-46EC0BD1E198}|ManagerLayer\\ManagerLayer.csproj|solutionrelative:managerlayer\\services\\empmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4964B36D-CB08-42C1-A87A-46EC0BD1E198}|ManagerLayer\\ManagerLayer.csproj|c:\\users\\hp\\source\\repos\\employeemvc\\managerlayer\\interfaces\\iempmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4964B36D-CB08-42C1-A87A-46EC0BD1E198}|ManagerLayer\\ManagerLayer.csproj|solutionrelative:managerlayer\\interfaces\\iempmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\CommonLayer\\Models\\EmpModel.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Models\\EmpModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\CommonLayer\\Models\\EmpModel.cs",
+              "RelativeToolTip": "CommonLayer\\Models\\EmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:34:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\EmployeeMVC\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:03:03.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmpManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\ManagerLayer\\Interfaces\\IEmpManager.cs",
+              "RelativeDocumentMoniker": "ManagerLayer\\Interfaces\\IEmpManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\ManagerLayer\\Interfaces\\IEmpManager.cs",
+              "RelativeToolTip": "ManagerLayer\\Interfaces\\IEmpManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:15:20.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\ManagerLayer\\Services\\EmpManager.cs",
+              "RelativeDocumentMoniker": "ManagerLayer\\Services\\EmpManager.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\ManagerLayer\\Services\\EmpManager.cs",
+              "RelativeToolTip": "ManagerLayer\\Services\\EmpManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:15:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\RepositoryLayer\\Interfaces\\IEmpRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interfaces\\IEmpRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\RepositoryLayer\\Interfaces\\IEmpRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interfaces\\IEmpRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:14:48.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\RepositoryLayer\\Services\\EmpRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Services\\EmpRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EmployeeMVC\\RepositoryLayer\\Services\\EmpRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\Services\\EmpRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwGkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:14:28.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

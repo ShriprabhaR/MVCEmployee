@@ -1,0 +1,76 @@
+﻿@model CommonLayer.Models.AddEmployeeModel
+
+@{
+    ViewData["Title"] = "AddEmployee";
+}
+<link rel="stylesheet" href="~/css/EmpStyle.css" />
+<h4>AddEmployee</h4>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddEmployee" class="formm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Salary" class="control-label"></label>
+                <input asp-for="Salary" class="form-control" />
+                <span asp-validation-for="Salary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                @* <input asp-for="Gender" class="form-control" /> *@
+                <div class="form-control">
+                    
+                    @Html.RadioButtonFor(model => model.Gender, "Male")
+                    Male
+                   
+                    @Html.RadioButtonFor(model => model.Gender, "Female")
+                    Female
+                </div>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Department" class="control-label"></label>
+                @* <input asp-for="Department" class="form-control" /> *@
+                <select asp-for="Department" class="form-control">
+                    <option value="">-- Select Department --</option>
+                    <option value="Hr">HR</option>
+                    <option value="Manager">Manager</option>
+                    <option value="Finance">Finance</option>
+                    <option value="Development">Development</option>
+                </select>
+                <span asp-validation-for="Department" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+ <a asp-action="Index">Back to List</a> 
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
